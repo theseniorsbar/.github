@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🍹 Меню напитков
+# 🍹 Drinks Menu
 
 ### Senior's Bar
 
-[← Вернуться к README](README.md)
+[← Back to README](README.md)
 
 ---
 
@@ -12,8 +12,8 @@
 
 ## 🥃 Negroni
 
-| Напиток | Цена (GEL) |
-|---------|------------|
+| Drink | Price (GEL) |
+|-------|-------------|
 | Negroni Classic | 25 |
 | Sbagliato | 25 |
 | Sbagliato Foresta | 25 |
@@ -28,8 +28,8 @@
 
 ## 🍸 Easy Choice
 
-| Напиток | Цена (GEL) |
-|---------|------------|
+| Drink | Price (GEL) |
+|-------|-------------|
 | Gin & Tonic | from 20 |
 | Cuba Libre | from 21 |
 | Whisky & Cola | from 21 |
@@ -40,8 +40,8 @@
 
 ## ✨ Our Favourites
 
-| Напиток | Цена (GEL) |
-|---------|------------|
+| Drink | Price (GEL) |
+|-------|-------------|
 | Bloody Special | 25 |
 | Call Me By Your Name | 25 |
 | Clover Club | 25 |
@@ -65,8 +65,8 @@
 
 ## 🍷 Wine by Glass
 
-| Напиток | Цена (GEL) |
-|---------|------------|
+| Drink | Price (GEL) |
+|-------|-------------|
 | Saperavi Red Dry | 10 |
 | Saperavi Rose Dry | 10 |
 | Rkatsiteli White Dry | 10 |
@@ -78,8 +78,8 @@
 
 ## 🍺 Draft
 
-| Напиток | Цена (GEL) |
-|---------|------------|
+| Drink | Price (GEL) |
+|-------|-------------|
 | Argo Lager 0.5 | 7 |
 | Funky Cherry Cider 0.4 | 11 |
 
@@ -87,8 +87,8 @@
 
 ## 🍻 Beer
 
-| Напиток | Цена (GEL) |
-|---------|------------|
+| Drink | Price (GEL) |
+|-------|-------------|
 | Agara Witbier | 16 |
 | Agara Stout | 16 |
 | Agara IPA | 16 |
@@ -102,8 +102,8 @@
 
 ## 🍺 L/A Beer
 
-| Напиток | Цена (GEL) |
-|---------|------------|
+| Drink | Price (GEL) |
+|-------|-------------|
 | NaturAle L/A IPA | 14 |
 | Agara L/A International Pilsner | 16 |
 
@@ -111,8 +111,8 @@
 
 ## 🌿 NaturAle Bottled
 
-| Напиток | Цена (GEL) |
-|---------|------------|
+| Drink | Price (GEL) |
+|-------|-------------|
 | German Lager | 11 |
 | Citra APA | 14 |
 | IPA | 14 |
@@ -132,8 +132,8 @@
 
 ## 🍺 NaturAle Draft
 
-| Напиток | Цена (GEL) |
-|---------|------------|
+| Drink | Price (GEL) |
+|-------|-------------|
 | Weiss 0.5 | 12 |
 | Red IPA 0.5 | 13 |
 | Stout 0.5 | 13 |
@@ -144,8 +144,8 @@
 
 ## 🥜 Snacks
 
-| Напиток | Цена (GEL) |
-|---------|------------|
+| Item | Price (GEL) |
+|------|-------------|
 | Roasted Corn | 5 |
 | Coconut Peanuts | 6 |
 | Peanuts | 6 |
@@ -163,14 +163,14 @@
 
 <div align="center">
 
-*Цены указаны в GEL*
+*Prices are in GEL*
 
-[← Вернуться к README](README.md)
+[← Back to README](README.md)
 
 ---
 
 
-## 📍 Найди нас
+## 📍 Find Us
 
 <a href="https://t.me/theseniorsbar"><img src="assets/social_icons/telegram.png" width="40"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/theseniorsbar/"><img src="assets/social_icons/instagram.png" width="40"></a>&nbsp;&nbsp;&nbsp;
