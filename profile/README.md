@@ -8,111 +8,98 @@
 
 ---
 
-**IT-бар с душой и докладами каждый день**
+**IT bar with soul and talks every day**
 
 </div>
 
-## 👋 О нас
+## 👋 About Us
 
-**Senior's** — это не просто бар. Это место, где разработчики, дизайнеры, продакты и просто любопытные люди собираются, чтобы обсудить технологии, послушать доклады и выпить отличные коктейли.
+**Senior's** is not just a bar. It's a place where developers, designers, product managers, and curious minds gather to discuss technology, listen to talks, and enjoy great cocktails.
 
-Каждый вечер у нас происходит что-то интересное: митапы, воркшопы, дискуссии о Web3, AI, стартапах и карьере в IT. Мы верим, что лучшие идеи рождаются за барной стойкой, а не в переговорках.
+Every evening something interesting happens here: meetups, workshops, discussions about Web3, AI, startups, and IT careers. We believe the best ideas are born at the bar counter, not in meeting rooms.
 
-> *"Код пишется лучше после первого негрони"* — народная мудрость Senior's
+> *"Code flows better after the first negroni"* — Senior's folk wisdom
 
-```python
-class SeniorsBar:
-    def __init__(self):
-        self.vibe = "cozy_tech"
-        self.drinks = "exceptional"
-        self.talks = "every_damn_day"
-    
-    def visit(self):
-        return "best_decision_ever"
-```
 
----
+## 🍹 Menu
 
-## 🍹 Меню
+**[Drinks](DRINKS.md)**
 
-**[→ Полное меню напитков (DRINKS.md)](DRINKS.md)**
 
----
+## 📅 Events Digest
 
-## 📅 Дайджест мероприятий
+### Week of December 9–14
 
-### Неделя 9–14 декабря
+> Six days — six reasons to enjoy great cocktails and learn something interesting at Senior's 💛
 
-> Шесть дней — шесть поводов выпить классные коктейли и узнать много интересного в Senior's 💛
-
-| День | Мероприятие | Время |
-|------|-------------|-------|
-| **Вт, 9 дек** | 🎮 [GameFi: как устроены Web3-игры](https://t.me/theseniorsbar/214) | 20:00 |
-| **Ср, 10 дек** | 💼 [Опционы, доли или деньги?](https://t.me/theseniorsbar/215) | 20:00 |
-| **Чт, 11 дек** | 🌍 [Tech & SDG: будущее устойчивого развития](https://t.me/theseniorsbar/213) | 20:00 |
-| **Пт, 12 дек** | 🍻 Сеньорские негрони + караоке | 16:00 |
-| **Сб, 13 дек** | 🎤 Караоке | 16:00 |
-| **Вс, 14 дек** | ☀️ [Завтрак "Эволюция кода"](https://t.me/tcalendar_bot/app?startapp=eyJtb2RlIjoidmlldyIsInRva2VuIjoiNzZmYWVmMzNkNzFkODkxNTY0M2QyOGJjNGM0OCJ9) / 😤 [Айти-нытьё](https://t.me/theseniorsbar/212) | 11:00 / 19:00 |
+| Day | Event | Time |
+|-----|-------|------|
+| **Tue, Dec 9** | 🎮 [GameFi: How Web3 Games Work](https://t.me/theseniorsbar/214) | 20:00 |
+| **Wed, Dec 10** | 💼 [Options, Equity, or Cash?](https://t.me/theseniorsbar/215) | 20:00 |
+| **Thu, Dec 11** | 🌍 [Tech & SDG: The Future of Sustainable Development](https://t.me/theseniorsbar/213) | 20:00 |
+| **Fri, Dec 12** | 🍻 Senior's Negroni Night + Karaoke | 16:00 |
+| **Sat, Dec 13** | 🎤 Karaoke | 16:00 |
+| **Sun, Dec 14** | ☀️ [Breakfast "Code Evolution"](https://t.me/tcalendar_bot/app?startapp=eyJtb2RlIjoidmlldyIsInRva2VuIjoiNzZmYWVmMzNkNzFkODkxNTY0M2QyOGJjNGM0OCJ9) / 😤 [IT Whining](https://t.me/theseniorsbar/212) | 11:00 / 19:00 |
 
 ---
 
-### 🎮 Вторник, 9 декабря — GameFi: как устроены Web3-игры
+### 🎮 Tuesday, December 9 — GameFi: How Web3 Games Work
 
 <img src="content/20251208/091225.png" width="400">
 
-В 20:00 разбираем, что стоит за web3-играми: модели (play-to-earn, play-and-own, on-chain), экономика токенов, зачем нужен блокчейн и как отличить перспективный проект от хайповой пустышки.
+At 20:00 we'll explore what's behind web3 games: models (play-to-earn, play-and-own, on-chain), token economics, why blockchain matters, and how to tell a promising project from a hyped shell.
 
-**[→ Подробнее](https://t.me/theseniorsbar/214)**
+**[→ Learn More](https://t.me/theseniorsbar/214)**
 
 ---
 
-### 💼 Среда, 10 декабря — Опционы, доли или деньги?
+### 💼 Wednesday, December 10 — Options, Equity, or Cash?
 
 <img src="content/20251208/101225.png" width="400">
 
-Что на самом деле стоит за обещанием "дадим опционы". Поговорим о вестинге, ликвидности и реальной ценности мотивационных пакетов в IT и стартапах.
+What's really behind the promise of "we'll give you options." We'll discuss vesting, liquidity, and the real value of incentive packages in IT and startups.
 
-🎤 **Спикер:** Майкл Князев — создатель Senior's Bar, инженер и IT-предприниматель, экс-CTO стартапов, 17+ лет в разработке.
+🎤 **Speaker:** Michael Knyazev — founder of Senior's Bar, engineer and IT entrepreneur, ex-CTO of startups, 17+ years in development.
 
-**[→ Подробнее](https://t.me/theseniorsbar/215)**
+**[→ Learn More](https://t.me/theseniorsbar/215)**
 
 ---
 
-### 🌍 Четверг, 11 декабря — Tech & SDG: будущее устойчивого развития
+### 🌍 Thursday, December 11 — Tech & SDG: The Future of Sustainable Development
 
 <img src="content/20251208/111225.png" width="400">
 
-Как IT влияет на 17 целей ООН — обсудим зеленые тренды, климат-проекты, Web3-инициативы, риски ИИ-токенов и солнечных панелей.
+How IT impacts the UN's 17 goals — we'll discuss green trends, climate projects, Web3 initiatives, AI token risks, and solar panels.
 
-**[→ Подробнее](https://t.me/theseniorsbar/213)**
-
----
-
-### 🍻 Пятница, 12 декабря — Сеньорские негрони
-
-Пятница создана, чтобы не спешить домой. Негрони, караоке, отличная компания — короче, отдыхаем максимально! Начинаем в 16:00.
+**[→ Learn More](https://t.me/theseniorsbar/213)**
 
 ---
 
-### 🎤 Суббота, 13 декабря — Караоке
+### 🍻 Friday, December 12 — Senior's Negroni Night
 
-Наш традиционный субботний марафон песен и смелости. Приходи спеть любимые хиты! Начинаем в 16:00.
+Friday was made for not rushing home. Negroni, karaoke, great company — basically, maximum relaxation! Starting at 16:00.
 
 ---
 
-### 😴 Воскресенье, 14 декабря
+### 🎤 Saturday, December 13 — Karaoke
+
+Our traditional Saturday marathon of songs and courage. Come sing your favorite hits! Starting at 16:00.
+
+---
+
+### 😴 Sunday, December 14
 
 <img src="content/20251208/141225.png" width="400">
 
-**11:00** — [Завтрак сообщества "Эволюция кода"](https://t.me/tcalendar_bot/app?startapp=eyJtb2RlIjoidmlldyIsInRva2VuIjoiNzZmYWVmMzNkNzFkODkxNTY0M2QyOGJjNGM0OCJ9): обсуждаем будущее разработки
+**11:00** — [Community Breakfast "Code Evolution"](https://t.me/tcalendar_bot/app?startapp=eyJtb2RlIjoidmlldyIsInRva2VuIjoiNzZmYWVmMzNkNzFkODkxNTY0M2QyOGJjNGM0OCJ9): discussing the future of development
 
-**19:00** — [Айти-нытьё](https://t.me/theseniorsbar/212): можно пожаловаться, поделиться новостями или просто посидеть среди своих *(обратите внимание, начинаем на час раньше, чтобы выспаться к утру понедельника)*
+**19:00** — [IT Whining](https://t.me/theseniorsbar/212): feel free to complain, share news, or just hang out with your people *(note: starting an hour earlier so you can get enough sleep before Monday)*
 
 ---
 
 <div align="center">
 
-## 📍 Найди нас
+## 📍 Find Us
 
 <a href="https://t.me/theseniorsbar"><img src="assets/social_icons/telegram.png" width="40"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/theseniorsbar/"><img src="assets/social_icons/instagram.png" width="40"></a>&nbsp;&nbsp;&nbsp;
