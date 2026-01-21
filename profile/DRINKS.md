@@ -14,15 +14,15 @@
 
 | Drink | Price (GEL) |
 |-------|-------------|
-| Negroni Classic | 25 |
-| Sbagliato | 25 |
-| Sbagliato Foresta | 25 |
-| Bergamo Negroni | 27 |
-| Cin-Cyn | 27 |
-| Boulevardier | 28 |
-| Choco Negroni | 30 |
-| **✨ Senior's Negroni** | **30** |
-| White Negroni | 30 |
+| Negroni Classic | 30 |
+| Sbagliato | 30 |
+| Sbagliato Foresta | 30 |
+| Bergamo Negroni | 32 |
+| Cin-Cyn | 32 |
+| Boulevardier | 33 |
+| Choco Negroni | 35 |
+| **✨ Senior's Negroni** | **35** |
+| White Negroni | 35 |
 
 ---
 
@@ -30,11 +30,11 @@
 
 | Drink | Price (GEL) |
 |-------|-------------|
-| Gin & Tonic | from 20 |
-| Cuba Libre | from 21 |
-| Whisky & Cola | from 21 |
-| Old Fashioned | from 25 |
-| Whisky Sour | from 25 |
+| Gin & Tonic | from 25 |
+| Cuba Libre | from 26 |
+| Whisky & Cola | from 26 |
+| Old Fashioned | from 30 |
+| Whisky Sour | from 30 |
 
 ---
 
@@ -42,24 +42,24 @@
 
 | Drink | Price (GEL) |
 |-------|-------------|
-| Bloody Special | 25 |
-| Call Me By Your Name | 25 |
-| Clover Club | 25 |
-| Daichacha | 25 |
-| Junior Mule | 25 |
-| Mai-Tai | 25 |
-| Mangorita | 25 |
-| Senior's Star | 25 |
-| Vitamin M | 25 |
-| Aperol Spritz | 28 |
-| Evil Spritz | 28 |
-| Lemon Pie | 28 |
-| Norma Jean | 28 |
-| Panic Attack | 28 |
-| Romovaya Baba | 28 |
-| Senior's Iced Tea | 28 |
-| St. Margo | 28 |
-| Taxi to Yerevan | 28 |
+| Bloody Special | 30 |
+| Call Me By Your Name | 30 |
+| Clover Club | 30 |
+| Daichacha | 30 |
+| Junior Mule | 30 |
+| Mai-Tai | 30 |
+| Mangorita | 30 |
+| Senior's Star | 30 |
+| Vitamin M | 30 |
+| Aperol Spritz | 33 |
+| Evil Spritz | 33 |
+| Lemon Pie | 33 |
+| Norma Jean | 33 |
+| Panic Attack | 33 |
+| Romovaya Baba | 33 |
+| Senior's Iced Tea | 33 |
+| St. Margo | 33 |
+| Taxi to Yerevan | 33 |
 
 ---
 
@@ -67,12 +67,12 @@
 
 | Drink | Price (GEL) |
 |-------|-------------|
-| Saperavi Red Dry | 10 |
-| Saperavi Rose Dry | 10 |
-| Rkatsiteli White Dry | 10 |
-| Sparkling Wine Dry Draft | 10 |
-| Kindzmarauli Red Semi-Sweet | 12 |
-| Tvishi White Semi-Sweet | 12 |
+| Saperavi Red Dry | 15 |
+| Saperavi Rose Dry | 15 |
+| Rkatsiteli White Dry | 15 |
+| Sparkling Wine Dry Draft | 15 |
+| Kindzmarauli Red Semi-Sweet | 17 |
+| Tvishi White Semi-Sweet | 17 |
 
 ---
 
@@ -80,8 +80,8 @@
 
 | Drink | Price (GEL) |
 |-------|-------------|
-| Argo Lager 0.5 | 7 |
-| Funky Cherry Cider 0.4 | 11 |
+| Argo Lager 0.5 | 12 |
+| Funky Cherry Cider 0.4 | 16 |
 
 ---
 
@@ -89,14 +89,14 @@
 
 | Drink | Price (GEL) |
 |-------|-------------|
-| Agara Witbier | 16 |
-| Agara Stout | 16 |
-| Agara IPA | 16 |
-| Agara Coldragon IPA | 18 |
-| Agara Dragonchar Stout | 18 |
-| Magnum Dry Cider | 18 |
-| Ta-Ta Hodmandod Mead | 24 |
-| Dickiy Crest Dry Cider | 28 |
+| Agara Witbier | 21 |
+| Agara Stout | 21 |
+| Agara IPA | 21 |
+| Agara Coldragon IPA | 23 |
+| Agara Dragonchar Stout | 23 |
+| Magnum Dry Cider | 23 |
+| Ta-Ta Hodmandod Mead | 29 |
+| Dickiy Crest Dry Cider | 33 |
 
 ---
 
@@ -104,8 +104,8 @@
 
 | Drink | Price (GEL) |
 |-------|-------------|
-| NaturAle L/A IPA | 14 |
-| Agara L/A International Pilsner | 16 |
+| NaturAle L/A IPA | 19 |
+| Agara L/A International Pilsner | 21 |
 
 ---
 
@@ -113,20 +113,20 @@
 
 | Drink | Price (GEL) |
 |-------|-------------|
-| German Lager | 11 |
-| Citra APA | 14 |
-| IPA | 14 |
-| Weiss Bier | 14 |
-| Oat Stout | 15 |
-| Cider N1 Dry | 16 |
-| Sour Ale (Wild Berries, Cherry, Raspberry) | 16 |
-| Cider N4 Chokeberry | 17 |
-| Cider N5 Dry Hopped | 17 |
-| Cider N6 Semi Sweet | 17 |
-| Red IPA | 18 |
-| Tkemali Gose | 18 |
-| Tomato Gose | 18 |
-| Satsebeli Gose | 18 |
+| German Lager | 16 |
+| Citra APA | 19 |
+| IPA | 19 |
+| Weiss Bier | 19 |
+| Oat Stout | 20 |
+| Cider N1 Dry | 21 |
+| Sour Ale (Wild Berries, Cherry, Raspberry) | 21 |
+| Cider N4 Chokeberry | 22 |
+| Cider N5 Dry Hopped | 22 |
+| Cider N6 Semi Sweet | 22 |
+| Red IPA | 23 |
+| Tkemali Gose | 23 |
+| Tomato Gose | 23 |
+| Satsebeli Gose | 23 |
 
 ---
 
@@ -134,11 +134,11 @@
 
 | Drink | Price (GEL) |
 |-------|-------------|
-| Weiss 0.5 | 12 |
-| Red IPA 0.5 | 13 |
-| Stout 0.5 | 13 |
-| Wild Berries Sour Ale 0.5 | 13 |
-| Tomato Gose 0.5 | 16 |
+| Weiss 0.5 | 17 |
+| Red IPA 0.5 | 18 |
+| Stout 0.5 | 18 |
+| Wild Berries Sour Ale 0.5 | 18 |
+| Tomato Gose 0.5 | 21 |
 
 ---
 
